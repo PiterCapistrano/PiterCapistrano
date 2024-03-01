@@ -7,7 +7,7 @@
 
 ## Meu Histórico Profissional!
 
-Sou Engenheiro Civil, formado e atuando na área desde 2017, trabalehei com a execução de projetos estruturais, hidráulicos e elétrico, atuei como engenheiro responsável por obras publicas e privadas, executando o gerenciamento de obras, coordenando equipe de mão de obra e executando medições, orçamentos de obras e planejamento de obra.
+Sou Engenheiro Civil, formado e atuei na área desde 2017 a 2024, trabalehei com a execução de projetos estruturais, hidráulicos e elétrico, atuei como engenheiro responsável por obras publicas e privadas, executando o gerenciamento de obras, coordenando equipe de mão de obra e executando medições, orçamentos de obras e planejamento de obra.
 
 Atualmente estou focado no objetivo de migrar de carreira para Desenvolvedor de Mobile, estou estudando pela plataforma de ensino DIO (Digital Innovation One) a mais de 1 ano.
 
