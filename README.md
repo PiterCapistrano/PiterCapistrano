@@ -3,7 +3,7 @@
 ## Minhas Redes!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piter-capistrano-830406191/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PiterCapistrano)
-[![DIO](/docs/img/dio-logo.jpg)](https://www.dio.me/users/pitercapistrano)
+[![DIO](/dio-logo.jpg)](https://www.dio.me/users/pitercapistrano)
 
 ## Meu Histórico Profissional!
 
