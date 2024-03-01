@@ -9,7 +9,7 @@
 
 Sou Engenheiro Civil, formado e atuando na área desde 2017, trabalehei com a execução de projetos estruturais, hidráulicos e elétrico, atuei como engenheiro responsável por obras publicas e privadas, executando o gerenciamento de obras, coordenando equipe de mão de obra e executando medições, orçamentos de obras e planejamento de obra.
 
-Atualmente estou focado no objetivo de migrar de carreira para Desenvolvedor de Software, estou estudando pela plataforma de ensino DIO (Digital Innovation One) a mais de 1 ano.
+Atualmente estou focado no objetivo de migrar de carreira para Desenvolvedor de Mobile, estou estudando pela plataforma de ensino DIO (Digital Innovation One) a mais de 1 ano.
 
 ## Conhecimentos certificados na área de programação!
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
