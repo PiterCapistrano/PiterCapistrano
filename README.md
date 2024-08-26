@@ -45,6 +45,8 @@ Atualmente sou um desenvolvedor de software com habilidades sólidas em desenvol
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PiterCapistrano&bg_color=000&border_color=FF000C&title_color=FF0000&text_color=FFF)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PiterCapistrano&repo=FPCalculator_Kotlin_Multiplatform_JetPack_Composem&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF000&title_color=FF0000&text_color=FFF)](https://github.com/PiterCapistrano/FPCalculator_Kotlin_Multiplatform_JetPack_Compose)
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PiterCapistrano&repo=credit-application-system&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF000&title_color=FF0000&text_color=FFF)](https://github.com/PiterCapistrano/credit-application-system)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PiterCapistrano&repo=All-Coin-Converter&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF000&title_color=FF0000&text_color=FFF)](https://github.com/PiterCapistrano/All-Coin-Converter)
