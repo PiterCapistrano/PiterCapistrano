@@ -43,6 +43,8 @@ Sou um desenvolvedor de software com habilidades sólidas em desenvolvimento And
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PiterCapistrano&bg_color=000&border_color=FF000C&title_color=FF0000&text_color=FFF)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PiterCapistrano&repo=AppDelivery&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF000&title_color=FF0000&text_color=FFF)](https://github.com/PiterCapistrano/AppDelivery)
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PiterCapistrano&repo=credit-application-system&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF000&title_color=FF0000&text_color=FFF)](https://github.com/PiterCapistrano/credit-application-system)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PiterCapistrano&repo=All-Coin-Converter&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF000&title_color=FF0000&text_color=FFF)](https://github.com/PiterCapistrano/All-Coin-Converter)
@@ -54,10 +56,6 @@ Sou um desenvolvedor de software com habilidades sólidas em desenvolvimento And
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PiterCapistrano&repo=Desafios-Impulso-Iniciante-JavaScript&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF000&title_color=FF0000&text_color=FFF)](https://github.com/PiterCapistrano/desafios-Impulso-Iniciante-JavaScript)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PiterCapistrano&repo=Desafio-de-Projeto-Netflix&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF000&title_color=FF0000&text_color=FFF)](https://github.com/PiterCapistrano/Desafio-de-Projeto-Netflix)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PiterCapistrano&repo=aula_bootstrap&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF000&title_color=FF0000&text_color=FFF)](https://github.com/PiterCapistrano/aula_bootstrap)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PiterCapistrano&repo=dio-lab-open-source&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF000&title_color=FF0000&text_color=FFF)](https://github.com/PiterCapistrano/dio-lab-open-source)
 
 <!--
 **PiterCapistrano/PiterCapistrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
