@@ -37,27 +37,7 @@ Sou um desenvolvedor de software com habilidades sólidas em desenvolvimento And
 
 
 
-## GitHub Status
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PiterCapistrano&theme=transparent&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FFF)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PiterCapistrano&bg_color=000&border_color=FF000C&title_color=FF0000&text_color=FFF)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PiterCapistrano&repo=AppDelivery&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF000&title_color=FF0000&text_color=FFF)](https://github.com/PiterCapistrano/AppDelivery)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PiterCapistrano&repo=credit-application-system&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF000&title_color=FF0000&text_color=FFF)](https://github.com/PiterCapistrano/credit-application-system)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PiterCapistrano&repo=PlayMusic&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF000&title_color=FF0000&text_color=FFF)](https://github.com/PiterCapistrano/PlayMusic)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PiterCapistrano&repo=WhatsApp-List&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF000&title_color=FF0000&text_color=FFF)](https://github.com/PiterCapistrano/WhatsApp-List)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PiterCapistrano&repo=Calculadora-de-IMC&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF000&title_color=FF0000&text_color=FFF)](https://github.com/PiterCapistrano/Calculadora-de-IMC)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PiterCapistrano&repo=All-Coin-Converter&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF000&title_color=FF0000&text_color=FFF)](https://github.com/PiterCapistrano/All-Coin-Converter)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PiterCapistrano&repo=BarberShopApp&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF000&title_color=FF0000&text_color=FFF)](https://github.com/PiterCapistrano/BarberShopApp)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PiterCapistrano&repo=Projeto-ReactJs-Matheus-Battisti&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF000&title_color=FF0000&text_color=FFF)](https://github.com/PiterCapistrano/Projeto-ReactJs-Matheus-Battisti)
 
 
 <!--
