@@ -47,15 +47,18 @@ Sou um desenvolvedor de software com habilidades sólidas em desenvolvimento And
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PiterCapistrano&repo=credit-application-system&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF000&title_color=FF0000&text_color=FFF)](https://github.com/PiterCapistrano/credit-application-system)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PiterCapistrano&repo=PlayMusic&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF000&title_color=FF0000&text_color=FFF)](https://github.com/PiterCapistrano/PlayMusic)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PiterCapistrano&repo=WhatsApp-List&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF000&title_color=FF0000&text_color=FFF)](https://github.com/PiterCapistrano/WhatsApp-List)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PiterCapistrano&repo=Calculadora-de-IMC&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF000&title_color=FF0000&text_color=FFF)](https://github.com/PiterCapistrano/Calculadora-de-IMC)
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PiterCapistrano&repo=All-Coin-Converter&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF000&title_color=FF0000&text_color=FFF)](https://github.com/PiterCapistrano/All-Coin-Converter)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PiterCapistrano&repo=BarberShopApp&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF000&title_color=FF0000&text_color=FFF)](https://github.com/PiterCapistrano/BarberShopApp)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PiterCapistrano&repo=Projeto-ReactJs-Matheus-Battisti&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF000&title_color=FF0000&text_color=FFF)](https://github.com/PiterCapistrano/Projeto-ReactJs-Matheus-Battisti)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PiterCapistrano&repo=Desafios-Impulso-Iniciante-JavaScript&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF000&title_color=FF0000&text_color=FFF)](https://github.com/PiterCapistrano/desafios-Impulso-Iniciante-JavaScript)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PiterCapistrano&repo=Desafio-de-Projeto-Netflix&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF000&title_color=FF0000&text_color=FFF)](https://github.com/PiterCapistrano/Desafio-de-Projeto-Netflix)
 
 <!--
 **PiterCapistrano/PiterCapistrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
