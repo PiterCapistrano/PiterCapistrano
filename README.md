@@ -42,6 +42,8 @@ Sou um desenvolvedor de software com habilidades sólidas em desenvolvimento And
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PiterCapistrano&repo=Loja-Virtual-Client&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF000&title_color=FF0000&text_color=FFF)](https://github.com/PiterCapistrano/Loja-Virtual-Client)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PiterCapistrano&repo=Loja-Virtual-adm&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF000&title_color=FF0000&text_color=FFF)](https://github.com/PiterCapistrano/Loja-Virtual-adm)
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PiterCapistrano&repo=AppDelivery&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF000&title_color=FF0000&text_color=FFF)](https://github.com/PiterCapistrano/AppDelivery)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PiterCapistrano&repo=AppFilmes&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF000&title_color=FF0000&text_color=FFF)](https://github.com/PiterCapistrano/AppFilmes)
